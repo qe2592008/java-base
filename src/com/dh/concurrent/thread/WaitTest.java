@@ -1,0 +1,54 @@
+package com.dh.concurrent.thread;
+
+// WaitTest.java的源码
+
+
+public class WaitTest {
+    private static final Object lock = new Object();
+
+    public static void main(String[] args) {
+
+        ThreadA t1 = new ThreadA("t1");
+
+        synchronized(t1) {
+            try {
+                // 启动“线程t1”
+                System.out.println(Thread.currentThread().getName()+" start t1");
+                t1.start();
+
+                // 主线程等待t1通过notify()唤醒。
+                System.out.println(Thread.currentThread().getName()+" wait()");
+                t1.wait();
+
+                System.out.println(Thread.currentThread().getName()+" continue");
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    static class ThreadA extends Thread{
+
+        public ThreadA(String name) {
+            super(name);
+        }
+
+        public void run() {
+            synchronized (this) {
+            System.out.println(Thread.currentThread().getName()+" call notify()");
+                // 唤醒当前的wait线程
+//            lock.notify();
+                try {
+                    Thread.sleep(2000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
+}
