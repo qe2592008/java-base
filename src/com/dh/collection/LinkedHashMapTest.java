@@ -1,6 +1,7 @@
 package com.dh.collection;
 
 import java.util.LinkedHashMap;
+import java.util.LinkedHashSet;
 
 public class LinkedHashMapTest {
 
@@ -29,6 +30,9 @@ public class LinkedHashMapTest {
         map2.forEach((key, value)->{
             System.out.println(key + "-" + value);
         });
+
+        LinkedHashSet<String> ss = new LinkedHashSet<>();
+        ss.add("1");
     }
 
 }
