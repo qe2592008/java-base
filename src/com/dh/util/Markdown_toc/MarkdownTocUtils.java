@@ -22,13 +22,15 @@ public class MarkdownTocUtils {
         // 3-生成目录
         list.forEach(e ->{
             String[] ss = e.split(" ");
-            switch (ss[0].length()){
+            String title = e.substring(e.indexOf(" ") + 1);
+            String mulu = "- ["+ title+"](#"+ title +")";
+            switch (ss[0].length()) {
                 case 1:break;
-                case 2:System.out.println(""+"- ["+ ss[1]+"](#"+ ss[1] +")");break;
-                case 3:System.out.println("\t"+"- ["+ ss[1]+"](#"+ ss[1] +")");break;
-                case 4:System.out.println("\t\t"+"- ["+ ss[1]+"](#"+ ss[1] +")");break;
-                case 5:System.out.println("\t\t\t"+"- ["+ ss[1]+"](#"+ ss[1] +")");break;
-                case 6:System.out.println("\t\t\t\t"+"- ["+ ss[1]+"](#"+ ss[1] +")");break;
+                case 2:System.out.println(mulu);break;
+                case 3:System.out.println("\t"+mulu);break;
+                case 4:System.out.println("\t\t"+mulu);break;
+                case 5:System.out.println("\t\t\t"+mulu);break;
+                case 6:System.out.println("\t\t\t\t"+mulu);break;
             }
         });
     }
