@@ -1,18 +1,271 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="31b0784e-bf7f-4a8c-8e34-d91edba06bc2" name="Default" comment="modify add">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/01-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/11-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/11-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/11-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/11-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/11-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/11-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/12-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/12-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/12-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/14-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/14-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/14-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/image/25-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/pdf/初识MySQL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/pdf/基于成本的优化.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/pdf/基于规则的优化.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/pdf/连接的原理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/pdf/锁.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/初识MySQL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/启动选项和配置文件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/基于成本的优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/基于规则的优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/连接的原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Database/MySQL/从根儿上理解 MySQL/锁.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/IT_Base_Technology/Data_Structures_Algorithms/Algorithm/排序算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/IT_Base_Technology/Data_Structures_Algorithms/Algorithm/搜索算法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/IT_Base_Technology/Data_Structures_Algorithms/Algorithm/查找算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/IT_Base_Technology/Data_Structures_Algorithms/Algorithm/海量数据处理算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/06194835_Aj3Y.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/06194835_H50E.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/23种设计模式.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/Collection继承结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/Eureka架构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/JVM虚拟机.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/Java集合.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/Java集合.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/OSI七层协议.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/RenewalPercentThreshold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/TCP三次握手.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/TCP四次挥手.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/substring_jdk6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/substring_jdk7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/并发编程.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/数据库架构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/数据结构.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/数据结构与算法.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/知识网络.xmind" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/线程池类结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Images/线程状态转换.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Concurrent/Java集合集锦.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Concurrent/synchronized同步原语.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Concurrent/创建线程的多种方式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/DesignPatterns/23种设计模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/DesignPatterns/单例的七种写法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/DesignPatterns/设计模式的六大原则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Jvm/Class常量池.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Jvm/运行时常量池.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/java8/日期时间API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/BIO、NIO和AIO的区别、用法、原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/Enum深入解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/HashMap和ConcurrentHashMap解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/Integer的缓存机制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/JDK6和JDK7中substring的原理及区别.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/Java中常用注解使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/Java性能优化措施(代码级)(转).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/SPI的使用及原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/try-with-resources.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/元注解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/序列化破坏单例的解决方案.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/枚举实现原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/泛型各种用法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/注解与反射结合使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Base_Technology/自定义注解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Framework/Eureka详解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Framework/Eureka配置详解.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Python/Base/Grammar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Study_Everyday/20190829-Gvim操作.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Study_Everyday/20190830-Linux权限.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Study_Everyday/20190831-Linux文件目录.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Wangzhuan/Java如何学习.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Wangzhuan/Java自学书籍推荐.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Wangzhuan/如何自学java.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Wangzhuan/学java看懂这些书，你也可以成神.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/Wangzhuan/我是怎么学习java的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/gh-md-toc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/interview/Java面试题总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/interview/SQL面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/interview/美团面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/interview/面试经历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/interview/面试要求.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/interview/面试题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/knowledgeNetwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../knowledgeNetwork/xxxxx.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../articles/Notes/弥补不足/Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/../articles/Notes/弥补不足/Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-base.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-base.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dh/base/AlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dh/base/AlgorithmTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dh/util/Markdown_toc/MarkdownTocUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dh/util/Markdown_toc/MarkdownTocUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/META-INF/java-base.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/arithmetic/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/arithmetic/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/AlgorithmTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/AnnotationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/BinaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/CharacterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/CloneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/EnumTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/EnumTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/EnumTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/EqualsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/Clienter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/Desk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/DeskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/PlasticDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/PlasticDeskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/WoodenDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FactoryMethod/WoodenDeskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FinalTest$1innerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FinalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FinalizedTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/FinallyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/GenericityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Init.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/InstanceOfTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/IntegerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/ListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/RandomAccessTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/RefectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SimpleDateFormatTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SimpleDateFormatTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SimpleDateFormatTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonFive$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonFive$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonFive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonSeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonSix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/SingletonTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Stringtest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Sun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/TryWithResourcesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/Valid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/Chair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/Clienter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/Desk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/FurnitureFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/PlasticChair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/PlasticDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/PlasticFurnitureFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/WoodenChair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/WoodenDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/abstractFactory/WoodenFurnitureFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/command/Clienter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/command/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/command/Invoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/command/MyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/command/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/decorator/Decorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/decorator/DonghaoHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/decorator/DongliangHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/decorator/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/decorator/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/jvm/IaddTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/Clineter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/Desk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/DeskFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/DeskFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/PlasticDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/simpleFactory/WoodenDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/storge/Clienter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/storge/Linshi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/storge/Storge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/storge/Target.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/base/tang/AutoBoxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/collection/ArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/collection/ArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/collection/LinkedHashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/collection/LinkedHashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/MyComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/compare/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/aqs/ReentrantLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/aqs/ReentrantLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/Caozuo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/Caozuo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/InterruptTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/InterruptTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/JoinTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/JoinTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/MyThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/RunnableTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/RunnableTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/RunnableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/RunnableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/ThreadLocalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/ThreadLocalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/ThreadTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/ThreadTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/ThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/WaitNotifyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/WaitNotifyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/WaitTest$ThreadA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/WaitTest$ThreadA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/WaitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/thread/WaitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/threadLocal/ThreadLocalObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/threadLocal/ThreadLocalObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/threadLocal/ThreadLocalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/threadLocal/ThreadLocalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/util/CountDownlatchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/concurrent/util/CountDownlatchTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/encode/EncodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/encode/EncodeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/exception/ExceptionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/exception/ExceptionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/IOTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/IOTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/bio/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/bio/ClientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/bio/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/bio/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/file/IndentityFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/file/IndentityFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/file/ReadFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/file/ReadFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/file/ReadOurFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/file/ReadOurFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/io/nio/ServerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/io/nio/ServerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/lambda/LanbdaTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/lambda/LanbdaTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/lambda/LanbdaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/lambda/LanbdaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/lambda/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/lambda/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Banana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Banana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Fruit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Fruit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/spi/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/CollectorsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/CollectorsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/OptionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/OptionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/stream/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-base/com/dh/util/Markdown_toc/MarkdownTocUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-base/com/dh/util/Markdown_toc/MarkdownTocUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dh/base/tempCodeRunnerFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dh/base/tempCodeRunnerFile.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/../java-maven/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,43 +290,6 @@
     <expand />
     <select />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ZookeeperTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../java-maven/src/main/java/zookeeper/ZookeeperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dh/base/ListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MarkdownTocUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dh/util/Markdown_toc/MarkdownTocUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -86,7 +302,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>MaxTenuringThreshold</find>
       <find>语法糖</find>
       <find>内部类</find>
       <find>lambda</find>
@@ -116,15 +331,17 @@
       <find>DelayQueue</find>
       <find>AbstractQueuedSynchronizer</find>
       <find>ZKClientConfig</find>
+      <find>\\</find>
     </findStrings>
     <replaceStrings>
       <replace>&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;</replace>
       <replace />
+      <replace>/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../knowledgeNetwork" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -136,13 +353,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../articles/Notes/Java设计模式系列/Java设计模式系列-工厂方法模式.md" />
-        <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/PlasticDesk.java" />
-        <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/Chair.java" />
-        <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/PlasticChair.java" />
-        <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/WoodenChair.java" />
-        <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/Clienter.java" />
-        <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/FurnitureFactory.java" />
         <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/PlasticFurnitureFactory.java" />
         <option value="$PROJECT_DIR$/src/com/dh/base/abstractFactory/WoodenFurnitureFactory.java" />
         <option value="$PROJECT_DIR$/../articles/Notes/Java设计模式系列/Java设计模式系列-抽象工厂模式.md" />
@@ -187,6 +397,13 @@
         <option value="$PROJECT_DIR$/../java-maven/src/main/java/zookeeper/ZookeeperTest.java" />
         <option value="$PROJECT_DIR$/src/com/dh/base/ListTest.java" />
         <option value="$PROJECT_DIR$/src/com/dh/util/Markdown_toc/MarkdownTocUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/base/tempCodeRunnerFile.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/wangzhuanmima/MimaCreater.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/yasuo/YaSuo.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/yasuo/YaSuoSecond.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/yasuo/YaSuoFirst.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/base/fanxing/FXTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/dh/base/DaTest.java" />
       </list>
     </option>
   </component>
@@ -195,6 +412,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -212,39 +432,30 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="203" />
     <option name="y" value="80" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
+  <component name="ProjectId" id="25N2RjBXfKEhc4d3TLJoc9bmXjK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="Atomi&#9;PSI&#9;JAVA://com.google.common.util.concurrent.AtomicDouble&#10;Exchanger&#9;PSI&#9;JAVA://java.util.concurrent.Exchanger&#10;Semaphore&#9;PSI&#9;JAVA://java.util.concurrent.Semaphore&#10;CyclicBarrier&#9;PSI&#9;JAVA://java.util.concurrent.CyclicBarrier&#10;ba&#9;FILE&#9;file://F:/GitHub Resource/java-base/src/com/dh/base&#10;CountDownLatch&#9;PSI&#9;JAVA://java.util.concurrent.CountDownLatch&#10;ProxyClassFactory&#9;PSI&#9;JAVA://java.lang.reflect.Proxy.ProxyClassFactory&#10;InvocationHandler&#9;PSI&#9;JAVA://java.lang.reflect.InvocationHandler&#10;newProxyInstance&#9;PSI&#9;JAVA://java.lang.reflect.Proxy#newProxyInstance&#10;LinkedTransferQueue&#9;PSI&#9;JAVA://java.util.concurrent.LinkedTransferQueue&#10;Delayed&#9;PSI&#9;JAVA://java.util.concurrent.Delayed&#10;DelayQueue&#9;PSI&#9;JAVA://java.util.concurrent.DelayQueue&#10;ArrayDeque&#9;PSI&#9;JAVA://java.util.ArrayDeque&#10;ConcurrentLinkedDeque&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentLinkedDeque&#10;ConcurrentLinkedQueue&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentLinkedQueue&#10;PriorityQueue&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;ConcurrentSkipListSet&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentSkipListSet&#10;CopyOnWriteArraySet&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArraySet&#10;CopyOnWriteArrayList&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java&#10;WeakHashMap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/WeakHashMap.java&#10;HashTable&#9;PSI&#9;JAVA://java.util.Hashtable&#10;LinkedHashSet&#9;PSI&#9;JAVA://java.util.LinkedHashSet&#10;WeakHashMap &#9;PSI&#9;JAVA://java.util.WeakHashMap&#10;LinkedHashMap&#9;FILE&#9;file://F:/GitHub Resource/java-base/src/com/dh/collection/LinkedHashMapTest.java&#10;TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;TreeSet&#9;PSI&#9;JAVA://java.util.TreeSet&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;ArrayList&#9;PSI&#9;JAVA://com.dh.collection.ArrayListTest&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;LinkedList&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Thread&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java&#10;ThreadLocal&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/ThreadLocal.java&#10;RecursiveAction&#9;PSI&#9;JAVA://java.util.concurrent.RecursiveAction&#10;InheritableThreadLocal&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/InheritableThreadLocal.java&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/locks/Lock.java&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;Mutex&#9;PSI&#9;JAVA://com.sun.corba.se.impl.orbutil.concurrent.Mutex&#10;ForkJoin&#9;PSI&#9;JAVA://java.util.concurrent.ForkJoinPool&#10;ForkJoinTask&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ForkJoinTask.java&#10;Obje&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Object.java&#10;FutureTask&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/FutureTask.java&#10;Executors&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executors.java&#10;ScheduledFuture&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ScheduledFuture.java&#10;Future&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/Future.java&#10;ScheduledExecutorService&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ScheduledExecutorService.java&#10;ExecutorService&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ExecutorService.java&#10;Executor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executor.java&#10;ScheduledThreadPoolExecutor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java&#10;AbstractExecutorService&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/slf4j-jdk14-1.5.6.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../articles" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -254,14 +465,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub Resource\articles" />
+      <recent name="E:\GitHub Resource\java-base" />
+      <recent name="E:\GitHub Resource\java-maven" />
+      <recent name="E:\GitHub Resource\knowledgeNetwork" />
       <recent name="F:\GitHub Resource\java-maven\src\main\resources" />
-      <recent name="F:\GitHub Resource\knowledgeNetwork\Images" />
-      <recent name="F:\GitHub Resource\java-base\src\com\dh\base\abstractFactory" />
-      <recent name="F:\GitHub Resource\articles\Notes\images" />
-      <recent name="F:\GitHub Resource\java-base\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.dh.base.FactoryMethod" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\GitHub Resource\knowledgeNetwork\Images" />
@@ -270,33 +478,13 @@
       <recent name="F:\GitHub Resource\knowledgeNetwork\IT_Base_Technology" />
       <recent name="F:\GitHub Resource\articles\Notes\一言明智\网络系列" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dh.base.FactoryMethod" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MarkdownTocUtils">
-    <configuration name="CountDownlatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dh.concurrent.util.CountDownlatchTest" />
-      <module name="java-base" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dh.concurrent.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dh.base.ListTest" />
+  <component name="RunManager" selected="Application.DaTest">
+    <configuration name="DaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.base.DaTest" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -305,6 +493,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FXTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.base.fanxing.FXTest1" />
+      <module name="java-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.base.fanxing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="MarkdownTocUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dh.util.Markdown_toc.MarkdownTocUtils" />
@@ -316,87 +521,78 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ZookeeperTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zookeeper.ZookeeperTest" />
-      <module name="java-maven" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zookeeper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ZookeeperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dh.zookeeper.ZookeeperTest" />
+    <configuration name="MimaCreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.wangzhuanmima.MimaCreater" />
       <module name="java-base" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dh.zookeeper.*" />
+          <option name="PATTERN" value="com.dh.wangzhuanmima.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YaSuoFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dh.yasuo.YaSuoFirst" />
+      <module name="java-base" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dh.yasuo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CountDownlatchTest" />
-      <item itemvalue="Application.ZookeeperTest" />
-      <item itemvalue="Application.ZookeeperTest (1)" />
-      <item itemvalue="Application.ListTest" />
       <item itemvalue="Application.MarkdownTocUtils" />
+      <item itemvalue="Application.MimaCreater" />
+      <item itemvalue="Application.YaSuoFirst" />
+      <item itemvalue="Application.FXTest1" />
+      <item itemvalue="Application.DaTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaTest" />
+        <item itemvalue="Application.FXTest1" />
+        <item itemvalue="Application.YaSuoFirst" />
+        <item itemvalue="Application.MimaCreater" />
         <item itemvalue="Application.MarkdownTocUtils" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.ZookeeperTest (1)" />
-        <item itemvalue="Application.ZookeeperTest" />
-        <item itemvalue="Application.CountDownlatchTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
   </component>
@@ -476,6 +672,17 @@
       <workItem from="1554890699842" duration="759000" />
       <workItem from="1554951849410" duration="3074000" />
       <workItem from="1554972138919" duration="126000" />
+      <workItem from="1567275124477" duration="15053000" />
+      <workItem from="1571022005413" duration="2244000" />
+      <workItem from="1587380067086" duration="4091000" />
+      <workItem from="1589286455026" duration="2398000" />
+      <workItem from="1589444744934" duration="1334000" />
+      <workItem from="1589800499513" duration="1444000" />
+      <workItem from="1589953599367" duration="668000" />
+      <workItem from="1590680865994" duration="1071000" />
+      <workItem from="1598100734113" duration="5000" />
+      <workItem from="1611248050414" duration="109000" />
+      <workItem from="1645353219685" duration="317000" />
     </task>
     <task id="LOCAL-00010" summary="xiugai">
       <created>1547179669636</created>
@@ -824,7 +1031,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1079619000" />
+    <option name="totallyTimeSpent" value="1108036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -836,13 +1043,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="2" weight="0.27933383" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.56288344" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -850,11 +1056,11 @@
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32853898" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32618684" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4785276" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19934641" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996215" weight="0.6595092" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.27951807" visible="true" weight="0.2990159" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.27951807" weight="0.31869796" />
       <window_info anchor="right" id="Database" order="6" weight="0.329296" />
       <window_info anchor="right" id="ASM" order="12" weight="0.32873562" />
       <window_info id="Structure" order="0" sideWeight="0.72048193" side_tool="true" weight="0.28993186" />
@@ -862,7 +1068,8 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.28834355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37908497" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.56288344" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -873,14 +1080,13 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24981076" />
       <window_info id="Designer" order="1" />
       <window_info anchor="right" id="PlantUML" order="2" weight="0.27933383" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info id="Image Layers" order="5" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35582823" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25460124" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24981076" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4996215" weight="0.6595092" />
@@ -888,56 +1094,39 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003785" side_tool="true" weight="0.8120915" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.013803681" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.56288344" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.48372445" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32668713" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32618684" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32853898" />
       <window_info anchor="right" id="jclasslib" order="11" weight="0.6298259" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.2852761" visible="true" weight="0.2672218" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.27951807" visible="true" weight="0.3035579" />
       <window_info anchor="right" id="ASM" order="12" weight="0.32873562" />
       <window_info anchor="right" id="Database" order="6" weight="0.329296" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297546" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info active="true" id="Structure" order="0" sideWeight="0.71472394" side_tool="true" visible="true" weight="0.2672218" />
+      <window_info id="Structure" order="0" sideWeight="0.72048193" side_tool="true" weight="0.28993186" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36349693" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.45552146" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="多线程笔记" />
@@ -962,264 +1151,185 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/base/Stringtest.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/stream/StreamTest.java</url>
           <line>57</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/stream/StreamTest.java</url>
           <line>149</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/stream/CollectorsTest.java</url>
           <line>76</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Enum.java</url>
           <line>231</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/base/ExceptionTest.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/base/ExceptionTest.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/base/ExceptionTest.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/spi/Test.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ServiceLoader.java</url>
           <line>536</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ServiceLoader.java</url>
           <line>537</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/ClassLoader.java</url>
           <line>1273</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ServiceLoader.java</url>
           <line>402</line>
-          <properties />
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ServiceLoader.java</url>
           <line>299</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/AbstractStringBuilder.java</url>
           <line>46</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/io/file/ReadFiles.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/io/file/ReadFiles.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>1197</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/concurrent/aqs/ReentrantLockTest.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/concurrent/aqs/ReentrantLockTest.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
           <line>605</line>
-          <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ArrayDeque.java</url>
           <line>146</line>
-          <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ArrayDeque.java</url>
           <line>122</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ArrayDeque.java</url>
           <line>137</line>
-          <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/dh/base/BinaryTest.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../java-maven/src/main/java/zookeeper/ZookeeperTest.java</url>
           <line>32</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dh/yasuo/YaSuoFirst.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dh/yasuo/YaSuoFirst.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dh/yasuo/YaSuoFirst.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dh/yasuo/YaSuoFirst.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dh/base/DaTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/dh/base/DaTest.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="88" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>file.getAbsolutePath()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>proc.waitFor()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/javax/management/MBeanServerInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="235" column="40" selection-start-line="235" selection-start-column="24" selection-end-line="235" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../articles/Notes/Java基础系列/Java基础系列-动态代理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor>
-            <caret column="15" selection-start-column="15" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" selection-start-line="40" selection-end-line="94" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/WeakCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="99" column="13" selection-start-line="99" selection-start-column="13" selection-end-line="99" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="638" column="58" selection-start-line="638" selection-start-column="58" selection-end-line="638" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/ProxyGenerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="162" column="36" selection-start-line="162" selection-start-column="36" selection-end-line="162" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../articles/Notes/Java基础系列/Java基础系列-CGLIB动态代理原理.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../articles/Notes/Java基础系列/Java基础系列-JDK动态代理原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="551">
-            <caret line="29" selection-start-line="29" selection-end-line="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../knowledgeNetwork/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="18126">
-            <caret line="954" column="45" selection-start-line="954" selection-start-column="45" selection-end-line="954" selection-end-column="45" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Concurrent/Java集合集锦.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="5909">
-            <caret line="442" column="25" selection-start-line="442" selection-start-column="25" selection-end-line="442" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../knowledgeNetwork/Java_Technology/Java_Advanced_Technology/Concurrent/synchronized同步原语.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dh/base/AlgorithmTest.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1469,7 +1579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../java-maven/src/main/java/zookeeper/ZookeeperTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="105">
           <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1479,18 +1589,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dh/base/ListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/base/tempCodeRunnerFile.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="328" column="16" selection-start-line="328" selection-start-column="16" selection-end-line="328" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/yasuo/YaSuoSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7725">
+          <caret line="554" column="33" selection-start-line="554" selection-start-column="18" selection-end-line="554" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/yasuo/YaSuoFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/wangzhuanmima/MimaCreater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/network/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dh/util/Markdown_toc/MarkdownTocUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
+        <state relative-caret-position="465">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/base/DaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55905">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="168" column="7" selection-start-line="168" selection-start-column="7" selection-end-line="168" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dh/base/fanxing/FXTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
